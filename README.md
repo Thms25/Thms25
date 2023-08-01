@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋 I'm Thomas !</h1>
-<h3 align="center">A Junior Full-Stack Developer from Brussels, Belgium</h3>
+<h1 align="left">Hello 👋 I'm Thomas !</h1>
+<h3 align="left">A Junior Full-Stack Developer from Brussels, Belgium</h3>
 
 - 🔭 I’m currently working on <a href="https://www.youtube.com/@cosyjetsessions" target="blank">cosy jet sessions' website</a>
 
