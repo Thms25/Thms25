@@ -1,9 +1,9 @@
 <h1 align="left">Hello 👋 I'm Thomas !</h1>
 <h3 align="left">A Junior Full-Stack Developer from Brussels, Belgium</h3>
 
-- 🔭 I’m currently working on <a href="https://www.youtube.com/@cosyjetsessions" target="blank">cosy jet sessions' website</a>
+- 🔭 Currently working on <a href="https://www.youtube.com/@cosyjetsessions" target="blank">cosy jet sessions' website</a>
 
-- 🌱 I’m currently learning **React & Next**
+- 👀 Currently learning **React & Next**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
