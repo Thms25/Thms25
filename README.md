@@ -1,9 +1,11 @@
-<h1 align="left">Hello 👋 I'm Thomas !</h1>
-<h3 align="left">A Junior Full-Stack Developer from Brussels, Belgium</h3>
+<h1 align="left">Hello 👋 I'm Thomas!</h1>
+<h3 align="left">A Freelance Full-Stack Developer from Brussels, Belgium</h3>
 
-- 🔭 Currently working on <a href="https://www.youtube.com/@cosyjetsessions" target="blank">cosy jet sessions' website</a>
+- 🔭 Currently working on @PlaceCalledHome website using Next.js 13
 
-- 👀 Currently learning **React & Next**
+- 👀 Working on a few side projects:
+  <a href="https://www.@cosyjetsessions.com" target="blank">cosy jet sessions</a>
+  <a href="https://www.@cosyjetsessions.com" target="blank">Foodie Planner</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
